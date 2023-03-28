@@ -1,6 +1,6 @@
-### Hi there 👋
+<img src="C:\Users\Shuhaid\Downloads\shuhad (1).jpeg" alt="Alt text" title="Optional title">
 
-Here are some ideas to get you started:
+## Hi there 👋
 
 - 🌱 Full-Stack Web Developer and Software Developer
 - 💬 Ask me about my work in C#, HTML, Java, Python, Ruby on Rails and React.

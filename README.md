@@ -1,5 +1,3 @@
-<img src="C:\Users\Shuhaid\Downloads\shuhad (1).jpeg" alt="Alt text" title="Optional title">
-
 ## Hi there 👋
 
 - 🌱 Full-Stack Web Developer and Software Developer
